@@ -37,3 +37,20 @@ Este foi meu primeiro desafio de projeto no GITHUB pela DIO. Segue abaixo alguma
 - ls - para listar todas as pastas contidas no diretório
 - Fui seguindo esses passos até acessar a pasta que continha o projeto 
 - Quando acessei, dei um "git status" para compreender 
+- Para limpar toda a tela foi dado o comando Ctrl + L para limpar o console
+
+
+
+**Segunda Etapa do Desafio**
+
+- Após a resolução do problema e acessar com sucesso o diretório do projeto, foi adicionado novo arquivo no servidor local descrevendo o passo a passo do que aconteceu na execução do projeto. 
+- git status para verificar que o novo arquivo havia sido adicionado .md (txt)
+- git add . para adicionar o arquivo ao servidor local e prepará-lo para commit
+- git commit para preparar o envio do novo arquivo para o servidor remoto
+- git push origin main para enviar efetivamente o arquivo para o repositório do GITHUB (remoto)
+- git status para verificar se estava tudo correto e então copiar o link para enviar meu desafio. 
+- Ctrl + L para limpar o terminal 
+
+
+
+Está sendo uma experiência incrível e tenho certeza que vou aprender muito mais. 
